@@ -18,7 +18,7 @@ reconnaissance activities, and more. By training with these materials, you'll ga
 In addition to practical scenarios, we have also created a comprehensive [PDF presentation](https://github.com/securityjoes/MasterParser/tree/main/MasterParser%20Training/01%20-%20MasterParser%20Presentation)
 ,this presentation covers everything you need to know before using MasterParser. All these resources are conveniently organized in a folder called [MasterParser Training](https://github.com/securityjoes/MasterParser/tree/main/MasterParser%20Training) within the repository. Whether you are new to MasterParser or looking to deepen your expertise, these materials will provide valuable guidance and support.
 
-In addition to all of the materials, there is also a [live recorded workshop](https://www.youtube.com/watch?v=7YfpShZM-4k) on how to use MasterParser.
+In addition to all of the materials, there is also a [live recorded workshop](https://www.youtube.com/watch?v=7YfpShZM-4k) on how to use MasterParser that can be found on YouTube under the Security Joes YouTube channel.
 
 ## MasterParser Wallpapers
 Love MasterParser as much as we do? </br>
